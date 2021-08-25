@@ -1,6 +1,9 @@
 MIT License
 
-Copyright (c) 2020 HAIZAKURA
+Copyright (c) for portions of this library are held by HAIZAKURA, 2020, who is
+the original author of the esp-sht3x-micropython library.
+
+All other copyright (c) for this library are by Florian Volk, 2020.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
