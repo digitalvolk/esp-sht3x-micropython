@@ -18,7 +18,7 @@ sht3x = sht3x.SHT3x_Sensor(i2c)
 temperature, humidity = sht3x.read_temp_humd()
 
 print("Temperature: " + str(temperature) + " °C")
-print("Humidity: " + str(humidity" + " %")
+print("Humidity: " + str(humidity) + " %")
 
 ```
 
